@@ -16,4 +16,4 @@
 - ViewBinding
 - Dagger & Hilt
 
-[Kotlin Andriod MVVM CURD APP Tutorial : Room + Coroutines + DataBinding + LiveData + ViewModel](https://youtu.be/v2yocpEcE_g?t=3646 "Named link title")
+[Kotlin Andriod MVVM CURD APP Tutorial : Room + Coroutines + DataBinding + LiveData + ViewModel](https://youtu.be/v2yocpEcE_g?t=4537 "Named link title")
